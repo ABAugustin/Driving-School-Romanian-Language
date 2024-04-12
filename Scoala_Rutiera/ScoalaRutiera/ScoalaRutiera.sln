@@ -1,0 +1,55 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33414.496
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ScoalaRutiera", "ScoalaRutiera\ScoalaRutiera.csproj", "{B601CB43-4864-4700-88D2-BB2D85E4E65C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LoginDLL", "LoginDLL\LoginDLL.csproj", "{A38C8B05-B792-467E-B034-3564D2601062}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EncryptDLL", "EncryptDLL\EncryptDLL.csproj", "{BD2E73EF-85EA-4407-9D32-B8639F86BE3E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataParserDLL", "DataPerserDLL\DataParserDLL.csproj", "{A5AE3704-1D9E-4AD9-BEDC-683C01673ACA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ChestionarDLL", "ChestionarDLL\ChestionarDLL.csproj", "{58A47D52-C359-40E7-B571-AF95682B7310}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StateDLL", "StateDLL\StateDLL.csproj", "{FEE14E7F-C48D-4287-903C-B8FE3D762014}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B601CB43-4864-4700-88D2-BB2D85E4E65C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B601CB43-4864-4700-88D2-BB2D85E4E65C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B601CB43-4864-4700-88D2-BB2D85E4E65C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B601CB43-4864-4700-88D2-BB2D85E4E65C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A38C8B05-B792-467E-B034-3564D2601062}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A38C8B05-B792-467E-B034-3564D2601062}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A38C8B05-B792-467E-B034-3564D2601062}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A38C8B05-B792-467E-B034-3564D2601062}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BD2E73EF-85EA-4407-9D32-B8639F86BE3E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BD2E73EF-85EA-4407-9D32-B8639F86BE3E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BD2E73EF-85EA-4407-9D32-B8639F86BE3E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BD2E73EF-85EA-4407-9D32-B8639F86BE3E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A5AE3704-1D9E-4AD9-BEDC-683C01673ACA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A5AE3704-1D9E-4AD9-BEDC-683C01673ACA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A5AE3704-1D9E-4AD9-BEDC-683C01673ACA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A5AE3704-1D9E-4AD9-BEDC-683C01673ACA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{58A47D52-C359-40E7-B571-AF95682B7310}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{58A47D52-C359-40E7-B571-AF95682B7310}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{58A47D52-C359-40E7-B571-AF95682B7310}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{58A47D52-C359-40E7-B571-AF95682B7310}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FEE14E7F-C48D-4287-903C-B8FE3D762014}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FEE14E7F-C48D-4287-903C-B8FE3D762014}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FEE14E7F-C48D-4287-903C-B8FE3D762014}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FEE14E7F-C48D-4287-903C-B8FE3D762014}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {944514DE-CE45-4594-A516-D27D32A80B64}
+	EndGlobalSection
+EndGlobal

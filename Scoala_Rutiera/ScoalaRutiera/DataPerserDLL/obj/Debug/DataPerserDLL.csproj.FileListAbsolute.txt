@@ -1,0 +1,6 @@
+C:\Users\Augu\Desktop\Proiect IP\IP_Proiect\ScoalaRutiera\DataPerserDLL\bin\Debug\DataPerserDLL.dll
+C:\Users\Augu\Desktop\Proiect IP\IP_Proiect\ScoalaRutiera\DataPerserDLL\bin\Debug\DataPerserDLL.pdb
+C:\Users\Augu\Desktop\Proiect IP\IP_Proiect\ScoalaRutiera\DataPerserDLL\obj\Debug\DataPerserDLL.csproj.AssemblyReference.cache
+C:\Users\Augu\Desktop\Proiect IP\IP_Proiect\ScoalaRutiera\DataPerserDLL\obj\Debug\DataPerserDLL.csproj.CoreCompileInputs.cache
+C:\Users\Augu\Desktop\Proiect IP\IP_Proiect\ScoalaRutiera\DataPerserDLL\obj\Debug\DataPerserDLL.dll
+C:\Users\Augu\Desktop\Proiect IP\IP_Proiect\ScoalaRutiera\DataPerserDLL\obj\Debug\DataPerserDLL.pdb

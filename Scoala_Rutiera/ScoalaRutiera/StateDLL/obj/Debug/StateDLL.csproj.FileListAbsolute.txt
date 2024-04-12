@@ -1,0 +1,12 @@
+C:\Users\Augu\Desktop\Proiect IP\IP_Proiect\ScoalaRutiera\StateDLL\bin\Debug\StateDLL.dll
+C:\Users\Augu\Desktop\Proiect IP\IP_Proiect\ScoalaRutiera\StateDLL\bin\Debug\StateDLL.pdb
+C:\Users\Augu\Desktop\Proiect IP\IP_Proiect\ScoalaRutiera\StateDLL\obj\Debug\StateDLL.csproj.AssemblyReference.cache
+C:\Users\Augu\Desktop\Proiect IP\IP_Proiect\ScoalaRutiera\StateDLL\obj\Debug\StateDLL.csproj.CoreCompileInputs.cache
+C:\Users\Augu\Desktop\Proiect IP\IP_Proiect\ScoalaRutiera\StateDLL\obj\Debug\StateDLL.dll
+C:\Users\Augu\Desktop\Proiect IP\IP_Proiect\ScoalaRutiera\StateDLL\obj\Debug\StateDLL.pdb
+D:\desktop\Proiect IP\IP_Proiect\ScoalaRutiera\StateDLL\bin\Debug\StateDLL.dll
+D:\desktop\Proiect IP\IP_Proiect\ScoalaRutiera\StateDLL\bin\Debug\StateDLL.pdb
+D:\desktop\Proiect IP\IP_Proiect\ScoalaRutiera\StateDLL\obj\Debug\StateDLL.csproj.AssemblyReference.cache
+D:\desktop\Proiect IP\IP_Proiect\ScoalaRutiera\StateDLL\obj\Debug\StateDLL.csproj.CoreCompileInputs.cache
+D:\desktop\Proiect IP\IP_Proiect\ScoalaRutiera\StateDLL\obj\Debug\StateDLL.dll
+D:\desktop\Proiect IP\IP_Proiect\ScoalaRutiera\StateDLL\obj\Debug\StateDLL.pdb
